@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<title>La page des CTM</title>
+    <meta charset="utf-8">
+</head>
+<body>
+	<h1>Le Master <abbr title="Master parcours Communication, Technologies de la connaissance et Management de l'information">CTM</abbr></h1>
+	<p>
+		<a href="#presentation">Présentation du Master</a>
+		<a href="#ddm">Cours de droit des médias</a>
+		<a href="#bdd">Cours de base de données</a>
+		...
+	</p>
+	<h2 id="presentation">Présentation</h2>
+	<p>Notre Master est <em>pro.</em> et fortement orienté <strong>communication</strong>, il est dispensé à <a href="https://fr.wikipedia.org/wiki/Université_Panthéon-Sorbonne">Panthéon-Sorbonne</a> (Paris 1) et plus spécifiquement à 
+	<a href="https://fr.wikipedia.org/wiki/Centre_Pierre-Mend%C3%A8s-France#Caract%C3%A9ristiques">PMF</a>.
+
+	Nous étudions du <a href="#HTML">HTML</a>, les <a href="#sites">sites</a> et le <a href="#CSS">"CSS"</a>.
+
+
+	<h2>Les cours</h2>
+	
+	<h3 id="veille">La veille</h3>
+	
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis libero euismod, maximus purus ut, placerat elit. Nullam ac est et ipsum feugiat suscipit non in orci. Integer egestas viverra dolor, vitae bibendum metus. Aenean tincidunt vestibulum ipsum. Vivamus a convallis nunc, ac sodales lectus. Mauris eget lorem in risus mollis suscipit vel quis nibh. Quisque maximus lacus ut lectus pulvinar sagittis. Fusce lacinia elit ac orci posuere suscipit. Nulla est ex, faucibus nec consequat vitae, iaculis vitae nisl. Nullam ac justo placerat, mattis lorem malesuada, laoreet augue. Duis laoreet metus leo, ut suscipit risus convallis vitae. Phasellus non felis leo. Suspendisse eget ex turpis. Praesent ullamcorper, elit sit amet ornare efficitur, est erat hendrerit nisl, eu placerat tellus sapien non leo. Etiam nec erat sit amet mauris rhoncus pellentesque.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus tellus sed viverra finibus. Morbi nec lectus a velit tempor molestie in porta dui. Vestibulum nec ipsum fermentum, convallis dolor nec, auctor sapien. Etiam scelerisque lacus ex, tincidunt sodales augue euismod at. Donec iaculis massa at faucibus ultrices. Integer molestie efficitur odio id consectetur. Donec odio ex, molestie sit amet felis eget, auctor cursus quam. Etiam vitae gravida eros, et egestas ante. Curabitur et enim tempor, condimentum enim eget, vulputate dui. Maecenas aliquet massa quis nunc sollicitudin, eu aliquam ligula maximus. Aenean egestas bibendum nisi ac posuere. Ut sed leo vitae risus facilisis mollis vitae sed orci.
+
+Phasellus sed tristique nibh, at rhoncus erat. Proin dolor est, scelerisque nec neque ac, efficitur tempor nisi. Nam convallis vehicula orci, tincidunt pellentesque enim vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Cras eu diam sed eros faucibus auctor. Sed lacinia orci leo, a auctor urna tincidunt non. Sed. </p>
+	
+	<p>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis libero euismod, maximus purus ut, placerat elit. Nullam ac est et ipsum feugiat suscipit non in orci. Integer egestas viverra dolor, vitae bibendum metus. Aenean tincidunt vestibulum ipsum. Vivamus a convallis nunc, ac sodales lectus. Mauris eget lorem in risus mollis suscipit vel quis nibh. Quisque maximus lacus ut lectus pulvinar sagittis. Fusce lacinia elit ac orci posuere suscipit. Nulla est ex, faucibus nec consequat vitae, iaculis vitae nisl. Nullam ac justo placerat, mattis lorem malesuada, laoreet augue. Duis laoreet metus leo, ut suscipit risus convallis vitae. Phasellus non felis leo. Suspendisse eget ex turpis. Praesent ullamcorper, elit sit amet ornare efficitur, est erat hendrerit nisl, eu placerat tellus sapien non leo. Etiam nec erat sit amet mauris rhoncus pellentesque.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus tellus sed viverra finibus. Morbi nec lectus a velit tempor molestie in porta dui. Vestibulum nec ipsum fermentum, convallis dolor nec, auctor sapien. Etiam scelerisque lacus ex, tincidunt sodales augue euismod at. Donec iaculis massa at faucibus ultrices. Integer molestie efficitur odio id consectetur. Donec odio ex, molestie sit amet felis eget, auctor cursus quam. Etiam vitae gravida eros, et egestas ante. Curabitur et enim tempor, condimentum enim eget, vulputate dui. Maecenas aliquet massa quis nunc sollicitudin, eu aliquam ligula maximus. Aenean egestas bibendum nisi ac posuere. Ut sed leo vitae risus facilisis mollis vitae sed orci.
+
+Phasellus sed tristique nibh, at rhoncus erat. Proin dolor est, scelerisque nec neque ac, efficitur tempor nisi. Nam convallis vehicula orci, tincidunt pellentesque enim vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Cras eu diam sed eros faucibus auctor. Sed lacinia orci leo, a auctor urna tincidunt non. Sed. </p>
+	
+	<p>
+
+
+<h3>Glossaire</h3>
+
+
+</dl>
+
+<dt id="HTML">HTML</dt> 
+<dd>Langage de balisage utilisé pour la création de pages web, permettant notamment de définir des liens hypertextes. 
+</dd>
+
+
+<dt id="Sites">Sites</dt> 
+<dd>Un site web, site Web ou simplement site, est un ensemble de pages web et de ressources reliées par des hyperliens, défini et accessible par une adresse web.
+</dd>
+
+<dt id="CSS">CSS</dt> 
+<dd>Le CSS décrit la façon dont les éléments doivent être affichés à l'écran, sur papier, à l'oral ou sur d'autres médias. CSS est l'un des langages principaux du Web
+</dd>
+
+</dl>
+
+<p> Revenir à la page <a href="#presentation">présentation</a> 
+
+
+<!-- Image Map Generated by http://www.image-map.net/ -->
+<img src="il_1140xN.3509458394_43rq.jpg" usemap="#image-map">
+
+<map name="image-map">
+    <area target="_blank" alt="Tronc" title="Tronc" href="https://www.akivi.fr/anatomie-tronc-humain/" coords="377,440,734,929" shape="rect">
+    <area target="_blank" alt="Vase" title="Vase" href="https://www.ikea.com/fr/fr/p/stilren-vase-blanc-10592365/?gclsrc=aw.ds&amp;gad_source=1&amp;gad_campaignid=20818651628&amp;gbraid=0AAAAAD-wJrlmhtrO4ogmk7axcYl-JQdn5&amp;gclid=Cj0KCQiAiKzIBhCOARIsAKpKLAM9rYQKS5Ji9CJNctv_AakZO8wCprsU5NlDo6ewwvdXwXHQB6ehiZAaAtJKEALw_wcB" coords="807,851,769,853,768,889,761,914,744,943,727,980,728,1025,744,1052,769,1067,796,1075,823,1074,837,1062,841,1052,850,1032,856,1010,862,1003,846,952,838,929,814,888" shape="poly">
+    <area target="_blank" alt="Vase rond amazon" title="Vase rond amazon" href="https://www.amazon.fr/Vase-verre-soufflé-style-Murano/dp/B0F6MYPX4F/" coords="186,1008,41" shape="circle">
+</map>
+
+<p>
+ <footer>
+      <a href="mailto:gerald.kembellec@univ-paris1.fr?subject=coucou&body=Bonjour%20Monsieur%2C%0AJe%20vous%20prie%20de%20bien%20vouloir%20recevoir%20l%27expression%20de%20mes%20sentiments%20les%20meilleurs%2C">Ecrivez-moi</a>
+ </footer>
+</body>
+</html>
