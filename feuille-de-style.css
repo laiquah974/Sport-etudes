@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="fr-FR">
-<head>
-<title>Page CSS</title>
-	<meta charset="utf-8">
-	
-	<style>
-
 .menu {
     position: sticky;
     top: 0;
@@ -82,15 +74,5 @@
     color: #fff;
 }
 
-</style>
-
-
- <footer>
-      <a href="mailto:Laurence.Cusin-Masset@etu.univ-paris1.fr?subject=Une question sur notre site internet ?& body=Bonjour%20Monsieur%2C%0AJe%20vous%20prie%
-	20de%20bien%20vouloir%20recevoir%20l%27expression%20de%20mes%20sentiments%20les%20meilleurs%2C">Nous contacter par mail</a>
-
-	<a href="EX">Mentions légales</a>
-
- </footer>
 </body>
 </html>
