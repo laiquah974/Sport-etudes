@@ -85,6 +85,28 @@
         </div>
     </footer>
 
+<script>
+    const burger = document.getElementById("burger");
+    const menu = document.querySelector(".menu-main");
+    const subMenus = document.querySelectorAll(".has-sub");
+
+    // ouvrir / fermer le menu principal
+    burger.addEventListener("click", () => {
+        menu.classList.toggle("active");
+    });
+
+    // ouvrir / fermer les sous-menus sur mobile
+    subMenus.forEach(item => {
+        item.addEventListener("click", (e) => {
+            // empêcher que le clic recharge la page
+            e.preventDefault();
+
+            item.classList.toggle("open");
+            item.querySelector(".submenu").classList.toggle("active");
+        });
+    });
+</script>
+
 </body>
 </html>
 
