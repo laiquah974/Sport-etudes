@@ -1,3 +1,4 @@
+/* ----- MENU ----- */
 .menu {
     position: sticky;
     top: 0;
@@ -7,7 +8,6 @@
     z-index: 1000;
     font-family: Arial, sans-serif;
 }
-
 
 .menu-main {
     list-style: none;
@@ -35,7 +35,7 @@
     color: #0077ff;
 }
 
-
+/* ----- SOUS-MENU ----- */
 .submenu {
     list-style: none;
     position: absolute;
@@ -53,7 +53,6 @@
     transform: translateY(10px);
     transition: all 0.25s ease;
 }
-
 
 .has-sub:hover .submenu {
     opacity: 1;
@@ -73,8 +72,6 @@
     background: #0077ff;
     color: #fff;
 }
-
-<!-- Ajout du footer css-->
 
 /* ----- FOOTER ----- */
 .footer {
@@ -108,7 +105,7 @@
     font-weight: normal;
 }
 
-/* Version responsive pour éviter que tout s'écrase sur mobile */
+/* Footer responsive */
 @media (min-width: 600px) {
     .footer-content {
         flex-direction: row;
@@ -121,4 +118,3 @@
         font-size: 15px;
     }
 }
-
