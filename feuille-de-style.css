@@ -6,8 +6,20 @@ h1{
 h2{
     font-size: medium;
   }  
-
+*/
  font-family: 'Roboto', Arial, sans-serif
+
+@font-face {
+    font-family: 'PoliceHero';
+    src: url('typographie/policeHero.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'PoliceHero', sans-serif;
+    font-size: 200%;
+}
 
 
 header {
