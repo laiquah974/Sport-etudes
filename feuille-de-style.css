@@ -199,7 +199,14 @@ body {
 
     .menu-header {
         display: block;
+        position: sticky;
+        top: 0;
     }
+
+    .menu {
+        top: 50px;
+    }
+    
 
     .menu-main {
         display: none;
