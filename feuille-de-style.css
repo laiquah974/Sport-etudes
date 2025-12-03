@@ -1,7 +1,7 @@
 /* Taille des titres */
 h1{
     font-size: large;
-    font-family:typographie/policeHero.ttf;
+    font:typographie/policeHero.ttf;
   }  
 h2{
     font-size: medium;
